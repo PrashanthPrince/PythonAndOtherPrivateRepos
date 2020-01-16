@@ -1,0 +1,15 @@
+First,
+git config --global user.name ""
+git config --global user.email ""
+
+Go to the folder where you want to create a repo.
+git init
+git remote add origin https://......
+
+
+
+After creating a file,
+
+git add filename
+git commit -m "Meassage"
+git push origin master
