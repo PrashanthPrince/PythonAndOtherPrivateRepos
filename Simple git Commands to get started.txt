@@ -12,4 +12,5 @@ After creating a file,
 
 git add filename
 git commit -m "Meassage"
+git pull origin master
 git push origin master
