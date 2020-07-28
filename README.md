@@ -1,6 +1,8 @@
-# PythonTrials
+# About this repo
+This repo contains some basic commands that can be used to maintain a git repository in your local machine. And run the available python code to test your environment.
 
-There are some private repositories in my profile.
+# About Private Repositories
+There are some useful private repositories in my profile.
 They are:
 1) Tensorflow - various python codes implementing tensorflow.
 2) XAI-UI - Explainable AI project for Robots using ROS.
